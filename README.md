@@ -6,7 +6,7 @@ Community Research and Understanding Uploads
 
 - [Technology Configuration Orientation](https://github.com/kmn999/ENSE-405-Project/blob/main/P02%20-%20405%20-%20Activity%20-%20Technology%20configuration%20inventory.pdf)
 
-- [Business Case]()
+- [Business Case](https://github.com/kmn999/ENSE-405-Project/blob/main/P03%20-%20405%20-%20Activity%20-%20Business%20Case.pdf)
 
 - [Stakeholder Analysis]()
 
