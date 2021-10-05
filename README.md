@@ -8,7 +8,7 @@ Community Research and Understanding Uploads
 
 - [Business Case](https://github.com/kmn999/ENSE-405-Project/blob/main/P03%20-%20405%20-%20Activity%20-%20Business%20Case.pdf)
 
-- [Stakeholder Analysis]()
+- [Stakeholder Analysis](https://github.com/kmn999/ENSE-405-Project/blob/main/P04%20-%20405%20-%20Activity%20-%20Stakeholder%20Analysis.pdf)
 
 Vlogs
 #1 - [Project Introduction](https://youtu.be/guHlk-S1XM8)
