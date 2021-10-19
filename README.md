@@ -14,7 +14,7 @@ Project Deliverables #2
 Drafting an Emerging Picture and Project Management
 - [Drafting an Emerging Picture]()
 - [Project Scope]()
-- [Project Requirements]()
+- [Project Requirements](https://github.com/kmn999/ENSE-405-Project/blob/main/P07%20-%20405%20-%20Activity%20-%20Project%20Requirements.pdf)
 - [Activity-based Schedule](https://github.com/kmn999/ENSE-405-Project/blob/main/P08%20-%20405%20-%20Activity%20-%20Activity-Based%20Schedule.pdf)
 - [Architectual Diagrams - ERD](SOLARSHARE_ERM.drawio.pdf)
 - [Prototypes](ENSE405_prototyping.pdf)
