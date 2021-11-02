@@ -17,6 +17,9 @@ Drafting an Emerging Picture and Project Management Uploads
 - [Architectual Diagrams - ERD](SOLARSHARE_ERM.drawio.pdf)
 - [Prototypes](ENSE405_prototyping.pdf)
 
+MVP #1 Deliverables
+- [Progress Status Report MVP #1](https://github.com/kmn999/ENSE-405-Project/blob/main/P09%20-%20405%20-%20Project%20Status%20Report%20MVP_1.pdf)
+
 
 Vlogs
 #1 - [Project Introduction](https://youtu.be/guHlk-S1XM8)
