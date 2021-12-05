@@ -25,7 +25,7 @@ MVP #2 Deliverables
 
 MVP #3 and Final Project Deliverables
 - [Progress Status Report MVP #3](https://github.com/kmn999/ENSE-405-Project/blob/main/P09%20-%20405%20-%20Project%20Status%20Report%20MVP_3_.pdf)
-- [Document and Disscussion of Ideas and Concepts from Lectures]()
+- [Document and Disscussion of Ideas and Concepts from Lectures](https://github.com/kmn999/ENSE-405-Project/blob/main/Concepts%20and%20Ideas%20in%20Project%20Conceptualization.pdf)
 
 
 
