@@ -27,6 +27,7 @@ MVP #3 and Final Project Deliverables
 - [Progress Status Report MVP #3](https://github.com/kmn999/ENSE-405-Project/blob/main/P09%20-%20405%20-%20Project%20Status%20Report%20MVP_3_.pdf)
 - [Document and Disscussion of Ideas and Concepts from Lectures](https://github.com/kmn999/ENSE-405-Project/blob/main/ENSE%20405%20Concepts%20and%20Ideas%20in%20Project%20Conceptualization.pdf)
 - Access Code [Here](https://drive.google.com/drive/folders/1vuuS2bL_oh_2IuTjaWq7YTn1fBTCvlxT?usp=sharing) 
+- [Code Backup Installation/Instructions](https://github.com/kmn999/ENSE-405-Project/blob/main/ENSE%20405%20Installation%20Instructions.pdf)
 
 
 
